@@ -1,0 +1,191 @@
+* {}
+
+body {
+    font-family: Open Sans, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color: #27242b;
+}
+
+.flex-header {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2%;
+    border-bottom-style: solid;
+    border-color: #7e7e7e;
+    border-bottom-width: thin;
+}
+
+.nav-links1 li a {
+    text-decoration: none;
+}
+
+.nav-links1 li {
+    display: inline-block;
+    padding: 0px 25px;
+}
+
+.nav-links1 a {
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.nav-links2 li {
+    padding: 0px 25px;
+}
+
+.nav-links2 a {
+    color: #3d9f96;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.logo-blanc {
+    width: 25%;
+}
+
+.flex-header2 {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-header2>div>p {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.promote {
+    font-family: 'Raleway';
+}
+
+.flex-button {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-buy {
+    background-color: #3d9f96;
+    border: none;
+    border-radius: 25px;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 1% 3px;
+    width: 12%;
+}
+
+.flex-img-ordinateur {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-img-ordinateur>img {
+    width: 50%;
+}
+
+.avatar-reseau-sociaux {
+    background-color: #f9f9f9;
+}
+
+.flex-reseau-sociaux {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-reseau-sociaux>div {
+    padding: 5% 2% 0% 2%;
+}
+
+.flex-text {
+    display: flex;
+    justify-content: center;
+    color: #3d9f96;
+}
+
+.flex-text2 {
+    display: flex;
+    justify-content: center;
+}
+
+.img-iphone {
+    height: 100%;
+    width: 100%;
+}
+
+.flex-colonne {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.flex-colonne>div {
+    padding: 4% 3% 0% 3%;
+}
+
+.flex-text3 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.flex-text3>div {
+    padding: 5% 0% 4% 0%;
+}
+
+.flex-text3 p {
+    color: #FFFFFF;
+}
+
+.flex-screenshoot {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-screenshoot>div {
+    padding-right: -10%;
+}
+
+figcaption {
+    font-weight: bold;
+}
+
+.flex-litmus {
+    display: flex;
+    justify-content: center;
+}
+
+.img-composant {
+    width: 100%;
+    height: 100%;
+    margin-left: -18%;
+}
+
+.btn-see {
+    background-color: #3d9f96;
+    border: none;
+    border-radius: 25px;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 5% 20% 5% 20%;
+}
+
+.flex-responsive {
+    display: flex;
+    justify-content: center;
+}
+
+#footer {
+    background-color: #f9f9f9;
+}
+
+.flex-footer {
+    display: flex;
+    justify-content: center;
+    padding: 5% 0 3% 0;
+}
+
+.flex-footer>div {}
